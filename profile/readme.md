@@ -28,3 +28,4 @@
 - tradingpost
 - Wares
 - GoblinTraders
+- [Let's Do] Camping
