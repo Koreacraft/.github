@@ -35,3 +35,4 @@
 - [Let's Do] Candlelight
 - [Let's Do] Furniture
 - [Let's Do] Herbal Brews
+- [Let's Do] Beach Party
