@@ -21,9 +21,9 @@
 - Roots
 - FTB-Academy
 - ImprovableSkills
-- Bakery
-- Brewery
-- Vinery
+- [Let's Do] Bakery
+- [Let's Do] Brewery
+- [Let's Do] Vinery
 - All-Bark-All-Bite
 - tradingpost
 - Wares
@@ -32,3 +32,6 @@
 - [Let's Do] Farm & Charm
 - [Let's Do] Maedow
 - [Let's Do] Wild Nature
+- [Let's Do] Candlelight
+- [Let's Do] Furniture
+- [Let's Do] Herbal Brews
