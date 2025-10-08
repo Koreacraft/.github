@@ -29,3 +29,6 @@
 - Wares
 - GoblinTraders
 - [Let's Do] Camping
+- [Let's Do] Farm & Charm
+- [Let's Do] Maedow
+- [Let's Do] Wild Nature
